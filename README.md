@@ -2,14 +2,6 @@
 
 This program implements Monte Carlo Hex move evaluation using a graph data structure.
 
-## Author
-
-Ahmed Nasser
-
-## Date
-
-30-Mar-2024
-
 ## Description
 
 This program simulates the game of Hex and uses the Monte Carlo method to evaluate the best move for the AI player. The game is played on a hexagonal board with black and white cells. The AI player (white) uses the Monte Carlo method to simulate multiple random moves and selects the move with the highest chance of winning. The human player (black) can make moves by entering the cell index.
